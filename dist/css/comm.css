@@ -639,8 +639,8 @@ legend {
   margin-bottom: 10px;
 }
 .port-texts .text-info .text-head .pf-logo img {
-  width: 100%;
-  height: 100%;
+  width: 210px;
+  height: 40px;
   -o-object-fit: cover;
      object-fit: cover;
 }
