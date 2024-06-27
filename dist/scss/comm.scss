@@ -541,7 +541,9 @@
     gap: 30px;
 
     .but {
-        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         width: 7vw;
         height: 50px;
         color: #000000;
@@ -590,7 +592,9 @@
     gap: 30px;
 
     .but {
-        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         width: 7vw;
         height: 50px;
         color: #000000;
